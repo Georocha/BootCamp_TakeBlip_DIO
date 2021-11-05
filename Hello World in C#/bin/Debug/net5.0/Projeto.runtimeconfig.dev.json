@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/rocha/.dotnet/store/|arch|/|tfm|",
+      "/home/rocha/.nuget/packages"
+    ]
+  }
+}
