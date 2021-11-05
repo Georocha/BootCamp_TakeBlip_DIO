@@ -1,0 +1,16 @@
+/home/rocha/Documentos/DigitalInovationOne/bin/Debug/net5.0/DigitalInovationOne
+/home/rocha/Documentos/DigitalInovationOne/bin/Debug/net5.0/DigitalInovationOne.deps.json
+/home/rocha/Documentos/DigitalInovationOne/bin/Debug/net5.0/DigitalInovationOne.runtimeconfig.json
+/home/rocha/Documentos/DigitalInovationOne/bin/Debug/net5.0/DigitalInovationOne.runtimeconfig.dev.json
+/home/rocha/Documentos/DigitalInovationOne/bin/Debug/net5.0/DigitalInovationOne.dll
+/home/rocha/Documentos/DigitalInovationOne/bin/Debug/net5.0/ref/DigitalInovationOne.dll
+/home/rocha/Documentos/DigitalInovationOne/bin/Debug/net5.0/DigitalInovationOne.pdb
+/home/rocha/Documentos/DigitalInovationOne/obj/Debug/net5.0/DigitalInovationOne.csproj.AssemblyReference.cache
+/home/rocha/Documentos/DigitalInovationOne/obj/Debug/net5.0/DigitalInovationOne.GeneratedMSBuildEditorConfig.editorconfig
+/home/rocha/Documentos/DigitalInovationOne/obj/Debug/net5.0/DigitalInovationOne.AssemblyInfoInputs.cache
+/home/rocha/Documentos/DigitalInovationOne/obj/Debug/net5.0/DigitalInovationOne.AssemblyInfo.cs
+/home/rocha/Documentos/DigitalInovationOne/obj/Debug/net5.0/DigitalInovationOne.csproj.CoreCompileInputs.cache
+/home/rocha/Documentos/DigitalInovationOne/obj/Debug/net5.0/DigitalInovationOne.dll
+/home/rocha/Documentos/DigitalInovationOne/obj/Debug/net5.0/ref/DigitalInovationOne.dll
+/home/rocha/Documentos/DigitalInovationOne/obj/Debug/net5.0/DigitalInovationOne.pdb
+/home/rocha/Documentos/DigitalInovationOne/obj/Debug/net5.0/DigitalInovationOne.genruntimeconfig.cache
