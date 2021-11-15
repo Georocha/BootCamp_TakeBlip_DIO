@@ -1,0 +1,16 @@
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/bin/Debug/net5.0/Alunos
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/bin/Debug/net5.0/Alunos.deps.json
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/bin/Debug/net5.0/Alunos.runtimeconfig.json
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/bin/Debug/net5.0/Alunos.runtimeconfig.dev.json
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/bin/Debug/net5.0/Alunos.dll
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/bin/Debug/net5.0/ref/Alunos.dll
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/bin/Debug/net5.0/Alunos.pdb
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/obj/Debug/net5.0/Alunos.csproj.AssemblyReference.cache
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/obj/Debug/net5.0/Alunos.GeneratedMSBuildEditorConfig.editorconfig
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/obj/Debug/net5.0/Alunos.AssemblyInfoInputs.cache
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/obj/Debug/net5.0/Alunos.AssemblyInfo.cs
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/obj/Debug/net5.0/Alunos.csproj.CoreCompileInputs.cache
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/obj/Debug/net5.0/Alunos.dll
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/obj/Debug/net5.0/ref/Alunos.dll
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/obj/Debug/net5.0/Alunos.pdb
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/Alunos/obj/Debug/net5.0/Alunos.genruntimeconfig.cache
