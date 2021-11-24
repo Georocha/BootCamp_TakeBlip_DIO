@@ -1,0 +1,16 @@
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/obj/Debug/net5.0/RockMovies.csproj.AssemblyReference.cache
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/obj/Debug/net5.0/RockMovies.GeneratedMSBuildEditorConfig.editorconfig
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/obj/Debug/net5.0/RockMovies.AssemblyInfoInputs.cache
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/obj/Debug/net5.0/RockMovies.AssemblyInfo.cs
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/obj/Debug/net5.0/RockMovies.csproj.CoreCompileInputs.cache
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/bin/Debug/net5.0/RockMovies
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/bin/Debug/net5.0/RockMovies.deps.json
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/bin/Debug/net5.0/RockMovies.runtimeconfig.json
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/bin/Debug/net5.0/RockMovies.runtimeconfig.dev.json
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/bin/Debug/net5.0/RockMovies.dll
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/bin/Debug/net5.0/ref/RockMovies.dll
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/bin/Debug/net5.0/RockMovies.pdb
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/obj/Debug/net5.0/RockMovies.dll
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/obj/Debug/net5.0/ref/RockMovies.dll
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/obj/Debug/net5.0/RockMovies.pdb
+/home/rocha/Área de Trabalho/Cursos/Bootcamp Take blip/Atividades/CSharp/AppSeries/RockMovies/obj/Debug/net5.0/RockMovies.genruntimeconfig.cache
